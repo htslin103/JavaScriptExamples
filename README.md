@@ -1,2 +1,0 @@
-# JavaScriptExamples
- FreeCodeCamp Javascript examples
